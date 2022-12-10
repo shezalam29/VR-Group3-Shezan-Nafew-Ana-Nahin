@@ -1,8 +1,6 @@
 # VR, AR, MR (CSCI 493 Hunter College) Group 3 Project 
 # Archus - Archery-based VR game developed with Unity.
 
-Simple overview of use/purpose.
-
 ## Description
 
 Our project brings the benefits of archery and video games into the home of users through virtual reality. The application involves 4 distinct scenes and logic behind bow, arrow, quiver, and target game objects. It uses the XR Interaction Toolkit in the Unity engine as a framework to build a 3D-interactable virtual world.
@@ -27,10 +25,10 @@ Within project view in Unity, click File -> Build & Run making sure settings are
 
 Contributors names and contact info
 
-ex. Shezan Alam (shezan.alam48@myhunter.cuny.edu)
-ex. Nafew Mustafa (nafew.mustafa94@myhunter.cuny.edu)
-ex. Ana Lomidze (ana.lomidze65@myhunter.cuny.edu)
-ex. Nahin Mahmood (nahin.mahmood27@myhunter.cuny.edu)
+* Shezan Alam (shezan.alam48@myhunter.cuny.edu)
+* Nafew Mustafa (nafew.mustafa94@myhunter.cuny.edu)
+* Ana Lomidze (ana.lomidze65@myhunter.cuny.edu)
+* Nahin Mahmood (nahin.mahmood27@myhunter.cuny.edu)
 
 
 ## Acknowledgments
