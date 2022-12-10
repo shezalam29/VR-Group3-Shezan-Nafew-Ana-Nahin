@@ -8,7 +8,7 @@ Our project brings the benefits of archery and video games into the home of user
 
 ### Dependencies
 
-* Unity version 2020.3.22f1 or newer
+* Unity version 2020.3.22f1
 * Game was built and tested through the Oculus Quest
 
 ### Installing
